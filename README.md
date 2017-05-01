@@ -5,11 +5,55 @@ This video review lesson covers many of the concepts that you've learned about i
 ## Video
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/gI9wqEDPiY0?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
+### Video summary
+
+In this video, Avi will give us a brief overview of:
+* History of Internet 
+* How the Web Works
+
+In 1901, Tesla predicted a future where data can be transmitted worldwide using soundwave, or [wireless telegraphy.]http://www.teslasociety.com/portugal.htm).  
+
+In 1989, Sir Tim Berners-Lee, a British computer scientist invented the [World Wide Web.](http://webfoundation.org/about/vision/history-of-the-web/) - laying out his vision for what would become the web in a document called [“Information Management: A Proposal”.](http://info.cern.ch/Proposal.html)
+
+By 1990, Tim had written the three fundamental technologies that remain the foundation of today’s web 
+
+1. HTML: HyperText Markup Language. The markup (formatting) language for the web.
+2. URI: Uniform Resource Identifier. A kind of “address” that is unique and used to identify to each resource on the web. It is also commonly called a URL.
+
+Three parts of URI: 
+* Protocol (http)
+* Domain (github.com)
+* Resource (/johnbritton)
+
+3. HTTP: Hypertext Transfer Protocol. Allows for the retrieval of linked resources from across the web.
+
+[HTTP request types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+[HTTP response codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+[TCP/IP (Transmission Control Protocol/Internet Protocol)](https://en.wikipedia.org/wiki/Internet_protocol_suite) is the basic communication language or protocol of the Internet. It can also be used as a communications protocol in a private network (either an intranet or an extranet). 
+
+Another network protocol is [Telnet (TErminal NETwork)](https://www.lifewire.com/what-is-telnet-2626026), a network protocol used to provide a command line interface for communicating with a device.
+
+The world is connected via submarine communications cables, you can find the complete [Submarine Cable Map here.](http://www.submarinecablemap.com/)
+
+You will also learn about the [OSI (Open Systems Interconnection) model](https://www.lifewire.com/open-systems-interconnection-model-816290) that defines internetworking in terms of a vertical stack of seven layers. Upper layers of the OSI model represent software that implements network services like encryption and connection management. Lower layers of the OSI model implement more primitive, hardware-oriented functions like routing, addressing, and flow control. 
+
+**We will mostly be working on the TOP layer of Application as full stack engineers**
+
+There are [two types of web apps:](https://www.pluralsight.com/blog/creative-professional/static-dynamic-websites-theres-difference)
+1. Static
+2. Dynamic
+
+Lastly, you will learn about the [Client Service Model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model), a concept which can be simplified to:
+
+**A client (e.g. web browser) send a request to servers to GET data; a server sends a response back to the client, and the client then renders its received content on page**
+
+A server response is composed of 3 parts:
+1. Structure (HTML)
+2. Style (CSS)
+3. Behavior (Javascript)
+
 ## How You Can Help Us Make These Videos Better
-
-### Suggest a Summary of the Video That We Can Add
-
-In one brief paragraph, what does this video cover? What are the concepts that are taught and what domain models or examples are used to teach those concepts? What other information, such as historical facts or context, is presented? 
 
 ### Suggest Learning Objectives That We Can Add
 
